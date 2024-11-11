@@ -9,6 +9,10 @@ The system also counts the total number of blinks and visualizes the blink ratio
 
 ### Hardware:
 + Raspberry Pi
++ Arduino
++ LED Bulbs
++ Buzzer
++ Motor
 + Webcam
 + SD card
 
